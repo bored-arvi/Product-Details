@@ -1,0 +1,9 @@
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+ios/Flutter/Flutter.podspec
+.idea/
+.vscode/
+*.iml
