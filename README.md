@@ -9,10 +9,6 @@ The Product List App is a simple Flutter application that displays a list of pro
 - **Product Details**: For each product, you can view its title, category, price, and rating.
 - **Smooth Scroll**: The list is scrollable with smooth, bouncing scroll behavior.
 
-### **API**
-
-This section gives details about the API that the app interacts with, including the URL and the structure of the response.
-
 ## API
 
 The app uses the following API to fetch product data:
